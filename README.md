@@ -3,12 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=180&section=header&text=DarkYTGG&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20TSU%20en%20Inform%C3%A1tica%20(5to%20Semestre)%20%7C%20Software%20Developer&descAlignY=60&descAlign=50" alt="DarkYTGG Banner" width="100%" />
 
   <a href="https://github.com/DarkYTGG">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9333EA&center=true&vCenter=true&width=550&lines=%C2%A1Hola!+Soy+DarkYTGG+%F0%9F%91%8B;Estudiante+de+TSU+en+Inform%C3%A1tica+(5to+Semestre)+%F0%9F%8E%93;Desarrollador+Android+Nativo+%26+Kotlin;Creador+de+Manhwa+AI+Translator;Desarrollador+Java+%26+Plugins+de+Minecraft;Construyendo+Software+Open+Source" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9333EA&center=true&vCenter=true&width=550&lines=%C2%A1Hola!+Soy+DarkYTGG+%F0%9F%91%8B;Estudiante+de+TSU+en+Inform%C3%A1tica+(5to+Semestre)+%F0%9F%8E%93;Desarrollador+de+Software+en+Producci%C3%B3n;Creador+de+Manhwa+AI+Translator;Desarrollador+Java+%26+Plugins+de+Minecraft;Construyendo+Software+Open+Source" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <a href="https://github.com/DarkYTGG?tab=repositories">
       <img src="https://img.shields.io/badge/TSU_en_Inform%C3%A1tica-5to_Semestre-10B981?style=for-the-badge&logo=google-classroom&logoColor=white" alt="TSU en Informática">
+    </a>
+    <a href="https://github.com/DarkYTGG/Sistema-de-Nomina">
+      <img src="https://img.shields.io/badge/En_Producci%C3%B3n-Sistema_de_N%C3%B3mina-0078D4?style=for-the-badge&logo=fastapi&logoColor=white" alt="Sistema de Nómina">
     </a>
     <a href="https://github.com/DarkYTGG/ManhwaTranslator-App">
       <img src="https://img.shields.io/badge/Proyecto_Estrella-Manhwa_AI_Translator-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="Proyecto Estrella">
@@ -24,12 +27,12 @@
 
 ### 👨‍💻 Sobre Mí
 
-- 🎓 **Educación:** Estudiante de **Técnico Superior Universitario (TSU) en Informática** (actualmente cursando el **5to semestre**), apasionado por el desarrollo de software, algoritmos, bases de datos y la arquitectura de sistemas.
-- 📱 **Móvil & Arquitectura:** Especializado en desarrollo nativo para **Android** con arquitectura moderna (**Kotlin 2.0**, **Jetpack Compose**, Coroutines y StateFlow).
-- 🎮 **Minecraft & Java:** Creación de plugins de alto rendimiento en **Java 21** para servidores modernos con soporte multihilo (**Paper / Purpur / Folia**).
-- 🧠 **Pasión por la IA:** Integración de modelos LLM (**Google Gemini**, **OpenAI GPT-4o**, **DeepSeek**) y **Visión por Computadora** (OCR con ML Kit, inpainting inteligente y procesamiento en pantalla).
-- 🌐 **Desarrollo Web & Backend:** Creación de aplicaciones completas con **Python (Flask)**, **Next.js**, **TypeScript** y **Tailwind CSS**.
-- 🚀 **Filosofía:** Crear software útil, rápido y estético que resuelva problemas reales de forma elegante.
+- 🎓 **Educación:** Estudiante de **Técnico Superior Universitario (TSU) en Informática** (actualmente en el **5to semestre**), enfocado en desarrollo de software, algoritmos, bases de datos y arquitectura de sistemas.
+- 🚀 **Software en Producción Real:** Creador de [**CaroníPay (Sistema de Nómina)**](https://github.com/DarkYTGG/Sistema-de-Nomina), solución empresarial activa en **Montreal, Canadá**, con geocercas GPS, integración a la API de Connecteam y cumplimiento estricto de las normas laborales de Quebec (CNESST).
+- 📱 **Móvil & Arquitectura:** Especializado en desarrollo nativo para **Android** con arquitectura limpia (**Kotlin 2.0**, **Jetpack Compose**, Coroutines y StateFlow).
+- 🎮 **Minecraft & Java:** Creación de plugins de alto rendimiento en **Java 21** para arquitecturas multihilo modernas (**Paper / Purpur / Folia**).
+- 🧠 **Pasión por la IA:** Integración de modelos LLM (**Google Gemini**, **OpenAI GPT-4o**, **DeepSeek**) y **Visión por Computadora** (OCR con ML Kit, inpainting inteligente y procesamiento de pantalla).
+- 🌐 **Desarrollo Web & Backend:** Creación de soluciones asíncronas con **Python (FastAPI, Flask)**, **Supabase / PostgreSQL**, **Next.js**, **TypeScript** y **Tailwind CSS**.
 
 ---
 
@@ -39,6 +42,7 @@
 
 | Proyecto | Plataforma | Descripción | Tecnologías | Enlaces |
 | :--- | :---: | :--- | :---: | :---: |
+| 💼 **[Sistema de Nómina (CaroníPay)](https://github.com/DarkYTGG/Sistema-de-Nomina)** | 🚀 En Producción | Plataforma empresarial en producción activa (Montreal, Canadá) para liquidación contable, geolocalización GPS y normativa CNESST. | ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Connecteam](https://img.shields.io/badge/Connecteam_API-0080FF?style=flat-square) | [**Ver Repositorio ➔**](https://github.com/DarkYTGG/Sistema-de-Nomina) |
 | ⚡ **[Manhwa AI Translator](https://github.com/DarkYTGG/ManhwaTranslator-App)** | 📱 Android | Asistente de traducción en pantalla para cómics y manhwas con inpainting inteligente y tipografías editoriales de scanlation. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=flat-square&logo=google) ![ML Kit](https://img.shields.io/badge/ML_Kit-FBBC04?style=flat-square&logo=google&logoColor=black) | [**Ver Repositorio ➔**](https://github.com/DarkYTGG/ManhwaTranslator-App)<br>[**📥 Descargar APK**](https://github.com/DarkYTGG/ManhwaTranslator-App/releases/latest) |
 | 🐓 **[RoosterGenics Plugin](https://github.com/DarkYTGG/RoosterGenics-Plugin)** | 🎮 Servidores | Plugin avanzado e integral para Minecraft (Paper / Purpur / Folia 1.21) con arquitectura multihilo Folia-Aware. | ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PaperMC](https://img.shields.io/badge/PaperMC_1.21-02303A?style=flat-square) ![Folia](https://img.shields.io/badge/Folia_Aware-00A86B?style=flat-square) | [**Ver Repositorio ➔**](https://github.com/DarkYTGG/RoosterGenics-Plugin) |
 | 🐓 **[Wiki RoosterGenics](https://github.com/DarkYTGG/Wiki-RoosterGenics)** | 📖 Docs / Web | Enciclopedia oficial y documentación técnica interactiva para el ecosistema de servidores de Minecraft 1.21. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github) | [**Ver Repositorio ➔**](https://github.com/DarkYTGG/Wiki-RoosterGenics)<br>[**🌐 Demo en Vivo**](https://darkytgg.github.io/Wiki-RoosterGenics/) |
@@ -53,10 +57,17 @@
 
 <div align="center">
 
-### Móvil & Servidores
+### Backend & Servidores
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PaperMC](https://img.shields.io/badge/PaperMC-02303A?style=for-the-badge)
+
+### Móvil & Arquitectura
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
@@ -67,13 +78,12 @@
 ![ML Kit](https://img.shields.io/badge/Google_ML_Kit-FBBC04?style=for-the-badge&logo=google&logoColor=black)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
 
-### Backend & Desarrollo Web
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### Frontend & Desarrollo Web
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### DevOps & Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
