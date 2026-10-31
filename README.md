@@ -87,8 +87,12 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkYTGG&show_icons=true&theme=radical&hide_border=true&title_color=7C3AED&icon_color=F59E0B&text_color=94A3B8&bg_color=0D1117" alt="Estadísticas de DarkYTGG" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkYTGG&layout=compact&theme=radical&hide_border=true&title_color=7C3AED&text_color=94A3B8&bg_color=0D1117" alt="Lenguajes más usados" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DarkYTGG&show_icons=true&theme=radical&hide_border=true&title_color=7C3AED&icon_color=F59E0B&text_color=94A3B8&bg_color=0D1117" alt="Estadísticas de DarkYTGG" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DarkYTGG&layout=compact&theme=radical&hide_border=true&title_color=7C3AED&text_color=94A3B8&bg_color=0D1117" alt="Lenguajes más usados" height="165" />
+</div>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=DarkYTGG&theme=radical&hide_border=true&border_radius=10&background=0D1117&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED" alt="Racha de contribuciones" />
 </div>
 
 ---
