@@ -1,20 +1,20 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=180&section=header&text=DarkYTGG&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Software%20%7C%20Android%20%7C%20Java%20%7C%20IA%20%7C%20Full-Stack&descAlignY=60&descAlign=50" alt="DarkYTGG Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=180&section=header&text=DarkYTGG&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20TSU%20en%20Inform%C3%A1tica%20(5to%20Semestre)%20%7C%20Software%20Developer&descAlignY=60&descAlign=50" alt="DarkYTGG Banner" width="100%" />
 
   <a href="https://github.com/DarkYTGG">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9333EA&center=true&vCenter=true&width=550&lines=%C2%A1Hola!+Soy+DarkYTGG+%F0%9F%91%8B;Desarrollador+Android+Nativo+%26+Kotlin;Creador+de+Manhwa+AI+Translator;Desarrollador+Java+%26+Plugins+de+Minecraft;Especialista+en+IA+Aplicada+y+LLMs;Construyendo+Software+Open+Source" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9333EA&center=true&vCenter=true&width=550&lines=%C2%A1Hola!+Soy+DarkYTGG+%F0%9F%91%8B;Estudiante+de+TSU+en+Inform%C3%A1tica+(5to+Semestre)+%F0%9F%8E%93;Desarrollador+Android+Nativo+%26+Kotlin;Creador+de+Manhwa+AI+Translator;Desarrollador+Java+%26+Plugins+de+Minecraft;Construyendo+Software+Open+Source" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <a href="https://github.com/DarkYTGG?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositorios-Explorar-blue?style=for-the-badge&logo=github" alt="Repositorios">
+      <img src="https://img.shields.io/badge/TSU_en_Inform%C3%A1tica-5to_Semestre-10B981?style=for-the-badge&logo=google-classroom&logoColor=white" alt="TSU en Informática">
     </a>
     <a href="https://github.com/DarkYTGG/ManhwaTranslator-App">
       <img src="https://img.shields.io/badge/Proyecto_Estrella-Manhwa_AI_Translator-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="Proyecto Estrella">
     </a>
-    <a href="mailto:goku.aagl@gmail.com">
-      <img src="https://img.shields.io/badge/Contacto-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=goku.aagl@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-goku.aagl%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </p>
 
@@ -24,11 +24,12 @@
 
 ### 👨‍💻 Sobre Mí
 
-- 📱 **Móvil & Arquitectura:** Desarrollo móvil nativo en **Android** (**Kotlin 2.0**, **Jetpack Compose**, Coroutines y StateFlow).
-- 🎮 **Minecraft & Java:** Creación de plugins de alto rendimiento en **Java 21** para arquitecturas multihilo modernas (**Paper / Purpur / Folia**).
-- 🧠 **Pasión por la IA:** Integración de modelos LLM (**Google Gemini**, **OpenAI GPT-4o**, **DeepSeek**) y **Visión por Computadora** (OCR, Inpainting inteligente y procesamiento en tiempo real).
-- 🌐 **Desarrollo Web & Backend:** Creación de plataformas con **Python (Flask)**, **Next.js**, **TypeScript** y **Tailwind CSS**.
-- 🚀 **Filosofía:** Crear software útil, rápido y estético con código limpio, modular y de alto rendimiento.
+- 🎓 **Educación:** Estudiante de **Técnico Superior Universitario (TSU) en Informática** (actualmente cursando el **5to semestre**), apasionado por el desarrollo de software, algoritmos, bases de datos y la arquitectura de sistemas.
+- 📱 **Móvil & Arquitectura:** Especializado en desarrollo nativo para **Android** con arquitectura moderna (**Kotlin 2.0**, **Jetpack Compose**, Coroutines y StateFlow).
+- 🎮 **Minecraft & Java:** Creación de plugins de alto rendimiento en **Java 21** para servidores modernos con soporte multihilo (**Paper / Purpur / Folia**).
+- 🧠 **Pasión por la IA:** Integración de modelos LLM (**Google Gemini**, **OpenAI GPT-4o**, **DeepSeek**) y **Visión por Computadora** (OCR con ML Kit, inpainting inteligente y procesamiento en pantalla).
+- 🌐 **Desarrollo Web & Backend:** Creación de aplicaciones completas con **Python (Flask)**, **Next.js**, **TypeScript** y **Tailwind CSS**.
+- 🚀 **Filosofía:** Crear software útil, rápido y estético que resuelva problemas reales de forma elegante.
 
 ---
 
@@ -97,8 +98,19 @@
 
 ---
 
+## 📫 Conectemos & Contacto
+
+<div align="center">
+  <p>¿Tienes alguna propuesta, idea de colaboración, consulta académica o sobre alguno de mis proyectos?</p>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=goku.aagl@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Enviar_Correo-goku.aagl%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar Correo por Gmail">
+  </a>
+  <p>✉️ Correo directo: <b><a href="mailto:goku.aagl@gmail.com">goku.aagl@gmail.com</a></b></p>
+</div>
+
+---
+
 <div align="center">
   <p>⭐ <b>¿Te gusta lo que ves?</b> No dudes en explorar mis repositorios y dejar una estrella.</p>
-  <p>🤝 Abierto a colaboraciones, ideas y nuevos desafíos de software.</p>
-  <sub>Diseñado con dedicación por <a href="https://github.com/DarkYTGG">@DarkYTGG</a></sub>
+  <sub>Desarrollado con dedicación por <a href="https://github.com/DarkYTGG">@DarkYTGG</a></sub>
 </div>
